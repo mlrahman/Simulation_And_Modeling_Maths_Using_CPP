@@ -1,0 +1,3 @@
+Number of Customers
+Customers Inter Arrival Times
+Service Durations 
