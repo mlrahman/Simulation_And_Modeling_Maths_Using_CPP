@@ -1,0 +1,2 @@
+# Simulation_And_Modeling_Maths_Using_CPP
+This file contains few maths of Simulation and Modeling Course. I have created all this code in C Plus Plus platform. You will find solution of Arrival and Departure routine, Time History Graph, Simulation Statistics &amp; Time Average values for single server queueing system. Its also contains Time History Graph, Simulation Statistics &amp; Different types of cost calculation. All the codes made using CPP.
